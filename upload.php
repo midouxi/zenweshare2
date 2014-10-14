@@ -1,3 +1,4 @@
+//by mehdi agouzal
 <?php
 $valid_exts = array('jpeg', 'jpg', 'png', 'gif');
 $max_file_size = 200 * 1024; #200kb
